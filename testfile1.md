@@ -12,10 +12,7 @@ Below are two sets of bulleted lists:
 - Test 4
 - Test 5 
 - Test 6
-
 Note that the rendered text above with space in between 2 sets of bulleted lists will appear differently on GitHub (space removed).
-
-
 
 Below are two sets of numbered lists:
 
@@ -27,11 +24,7 @@ Below are two sets of numbered lists:
 1. Number 1
 2. Number 2
 3. Number 3
-
-
 Note that the rendered text above with space in between 2 sets of numbered lists will appear differently on GitHub (two sets combined and number continues).
-
-
 
 Below are two sets of check boxes:
 
@@ -43,10 +36,7 @@ Below are two sets of check boxes:
 - [ ] Check Box A
 - [ ] Check Box B
 - [ ] Check Box C
-
 Note that the rendered text above with space in between 2 sets of check boxes will appear differently on GitHub (two sets combined).
-
-
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/zikqrAUEL5wc57nzfM8X --->
