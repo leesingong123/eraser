@@ -2,9 +2,7 @@
 
 This is Test File 1
 
-
-
-Below is the bulleted lists
+Below are two sets of bulleted lists
 
 - Test 1
 - Test 2
@@ -14,6 +12,22 @@ Below is the bulleted lists
 - Test 4
 - Test 5 
 - Test 6
+Note that the rendered text above with space in between 2 sets of bulleted lists will appear differently on GitHub (space removed).
+
+
+
+Below are two  sets of numbered lists
+
+1. Number 1
+2. Number 2
+3. Number 3
+
+
+1. Number 1
+2. Number 2
+3. Number 3
+
+
 
 
 | Title 1 | Title 2 | Title 3 |
@@ -21,7 +35,7 @@ Below is the bulleted lists
 | Row 1 | Row 1 | Row 1 |
 | Row 2 | Row 2 | Row 2 |
 | <ol><li>Numbered List</li><li>Numbered List</li><li>Numbered List</li></ol> | <ul><li>[ ] Check Box</li><li>[ ] Check Box</li><li>[ ] Check Box</li></ul> | <ul><li>Bulleted List</li><li>Bulleted List</li><li>Bulleted List</li></ul> |
-Note: The numbered list 
+Note: The numbered lists, check boxes and bulleted lists are all written in HTML tags, embedded inside the table defined in Markdown.
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/zikqrAUEL5wc57nzfM8X --->
