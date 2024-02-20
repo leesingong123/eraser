@@ -40,7 +40,7 @@ Below are two  sets of check boxes:
 - [ ] Check Box A
 - [ ] Check Box B
 - [ ] Check Box C
-Note that the rendered text above with space in between 2 sets of check boxes will appear differently on GitHub ().
+Note that the rendered text above with space in between 2 sets of check boxes will appear differently on GitHub (two sets combined).
 
 
 
