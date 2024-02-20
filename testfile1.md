@@ -26,9 +26,11 @@ Below are two  sets of numbered lists
 1. Number 1
 2. Number 2
 3. Number 3
+Note that the rendered text above with space in between 2 sets of numbered lists will appear differently on GitHub (two sets combined and number continues).
 
 
 
+Below is a table with numbered lists, bulleted lists and check boxes inside tables:
 
 | Title 1 | Title 2 | Title 3 |
 | ----- | ----- | ----- |
