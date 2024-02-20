@@ -37,7 +37,15 @@ Below is a table with numbered lists, bulleted lists and check boxes inside tabl
 | Row 1 | Row 1 | Row 1 |
 | Row 2 | Row 2 | Row 2 |
 | <ol><li>Numbered List</li><li>Numbered List</li><li>Numbered List</li></ol> | <ul><li>[ ] Check Box</li><li>[ ] Check Box</li><li>[ ] Check Box</li></ul> | <ul><li>Bulleted List</li><li>Bulleted List</li><li>Bulleted List</li></ul> |
-Note: The numbered lists, check boxes and bulleted lists are all written in HTML tags, embedded inside the table defined in Markdown.
+Note: The numbered lists, check boxes and bulleted lists are all written in HTML tags, embedded inside the table defined in Markdown. The line of words will also treated as part of a table like below.
+
+![image.png](/.eraser/zikqrAUEL5wc57nzfM8X___DeemGI1Ggkftn7wWxq7SfjBNFAs2___c_r7nkgn-glRi9tCb-Q5f.png "image.png")
+
+The table as rendered on [﻿eraser.io](https://eraser.io/) webapp is as below:
+
+![image.png](/.eraser/zikqrAUEL5wc57nzfM8X___DeemGI1Ggkftn7wWxq7SfjBNFAs2___QF-u2JEQc49TDGNqeo-Iq.png "image.png")
+
+
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/zikqrAUEL5wc57nzfM8X --->
