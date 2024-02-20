@@ -12,11 +12,12 @@ Below are two sets of bulleted lists:
 - Test 4
 - Test 5 
 - Test 6
+
 Note that the rendered text above with space in between 2 sets of bulleted lists will appear differently on GitHub (space removed).
 
 
 
-Below are two  sets of numbered lists:
+Below are two sets of numbered lists:
 
 1. Number 1
 2. Number 2
@@ -26,11 +27,13 @@ Below are two  sets of numbered lists:
 1. Number 1
 2. Number 2
 3. Number 3
+
+
 Note that the rendered text above with space in between 2 sets of numbered lists will appear differently on GitHub (two sets combined and number continues).
 
 
 
-Below are two  sets of check boxes:
+Below are two sets of check boxes:
 
 - [ ] Check Box 1 
 - [ ] Check Box 2
@@ -40,24 +43,8 @@ Below are two  sets of check boxes:
 - [ ] Check Box A
 - [ ] Check Box B
 - [ ] Check Box C
+
 Note that the rendered text above with space in between 2 sets of check boxes will appear differently on GitHub (two sets combined).
-
-
-
-Below is a table with numbered lists, bulleted lists and check boxes inside tables:
-
-| Title 1 | Title 2 | Title 3 |
-| ----- | ----- | ----- |
-| Row 1 | Row 1 | Row 1 |
-| Row 2 | Row 2 | Row 2 |
-| <ol><li>Numbered List</li><li>Numbered List</li><li>Numbered List</li></ol> | <ul><li>[ ] Check Box</li><li>[ ] Check Box</li><li>[ ] Check Box</li></ul> | <ul><li>Bulleted List</li><li>Bulleted List</li><li>Bulleted List</li></ul> |
-Note: The numbered lists, check boxes and bulleted lists are all written in HTML tags, embedded inside the table defined in Markdown. The line of words will also treated as part of a table like below.
-
-![image.png](/.eraser/zikqrAUEL5wc57nzfM8X___DeemGI1Ggkftn7wWxq7SfjBNFAs2___c_r7nkgn-glRi9tCb-Q5f.png "image.png")
-
-The table as rendered on [﻿eraser.io](https://eraser.io/) webapp is as below:
-
-![image.png](/.eraser/zikqrAUEL5wc57nzfM8X___DeemGI1Ggkftn7wWxq7SfjBNFAs2___QF-u2JEQc49TDGNqeo-Iq.png "image.png")
 
 
 
