@@ -2,7 +2,7 @@
 
 This is Test File 1
 
-Below are two sets of bulleted lists
+Below are two sets of bulleted lists:
 
 - Test 1
 - Test 2
@@ -16,7 +16,7 @@ Note that the rendered text above with space in between 2 sets of bulleted lists
 
 
 
-Below are two  sets of numbered lists
+Below are two  sets of numbered lists:
 
 1. Number 1
 2. Number 2
@@ -27,6 +27,20 @@ Below are two  sets of numbered lists
 2. Number 2
 3. Number 3
 Note that the rendered text above with space in between 2 sets of numbered lists will appear differently on GitHub (two sets combined and number continues).
+
+
+
+Below are two  sets of check boxes:
+
+- [ ] Check Box 1 
+- [ ] Check Box 2
+- [ ] Check Box 3
+
+
+- [ ] Check Box A
+- [ ] Check Box B
+- [ ] Check Box C
+Note that the rendered text above with space in between 2 sets of check boxes will appear differently on GitHub ().
 
 
 
