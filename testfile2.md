@@ -9,5 +9,7 @@ Below is a table with numbered lists, bulleted lists and check boxes inside tabl
 | Row 1 | Row 1 | Row 1 |
 | Row 2 | Row 2 | Row 2 |
 | <ol><li>Numbered List</li><li>Numbered List</li><li>Numbered List</li></ol> | <ul><li>[ ] Check Box</li><li>[ ] Check Box</li><li>[ ] Check Box</li></ul> | <ul><li>Bulleted List</li><li>Bulleted List</li><li>Bulleted List</li></ul> |
-
 Note: The numbered lists, check boxes and bulleted lists are all written in HTML tags, embedded inside the table defined in Markdown. The line of words will also treated as part of a table like below.
+
+
+<!--- Eraser file: https://app.eraser.io/workspace/r2QbauPyDjPWbuughCrQ --->
