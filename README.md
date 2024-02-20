@@ -9,7 +9,6 @@
 | ----- | ----- | ----- |
 | R1 | R1 | R1 |
 | R2 | R2 | R2 |
-
 ![Figure 1](/.eraser/SY3hUhCz4i6FNyUVKdMK___DeemGI1Ggkftn7wWxq7SfjBNFAs2___---figure---MIMPrSsRGKw8FarOG6Fak---figure---K55G80OifjrotP0fM6igTw.png "Figure 1")
 
 
